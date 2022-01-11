@@ -2,8 +2,6 @@
 Akhbar Privacy Policy
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at يوميات مسلم | أذكار وقرآن وأدعية بدون انترنت unless otherwise defined in this Privacy Policy.
-
 # Security
 
 I appreciate your trust in using this app, and I want you to know that I am not using any personal information of you. But remember that no method of transmission over the Internet or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
