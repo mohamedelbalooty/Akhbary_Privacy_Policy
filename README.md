@@ -7,7 +7,8 @@ This page is used to inform visitors regarding my policies with the collection, 
 I appreciate your trust in using this app, and I want you to know that I am not using any personal information of you. But remember that no method of transmission over the Internet or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
 # Service Provider
-I relied on my app to post news from the official website (https://newsapi.org/). You can also view the privacy policy of the publishing site from (https://newsapi.org/privacy)
+I relied on my app to post news from the official website (https://newsapi.org/).
+You can also view the privacy policy of the publishing site from (https://newsapi.org/privacy).
 
 # Links to Other Sites
 
